@@ -9,7 +9,7 @@ I am a Data & Business Analytics candidate focused on **SQL data modeling, KPI v
 
 #### 📌 Featured Portfolio Projects
 
-1. **[Online Retail II — Sales & Transaction Performance Dashboard](#)** *(PostgreSQL • Power BI • DAX)*
+1. **[Online Retail II — Sales & Transaction Performance Dashboard](https://github.com/margamiaw/online-retail-ii-sales-dashboard)** *(PostgreSQL • Power BI • DAX)*
    - Cleaned and modeled 1M+ e-commerce records into a PostgreSQL star schema and validated DAX measures against SQL benchmarks.
    - Uncovered Q4 seasonality (£1.45M Nov peak), mid-week B2B purchasing patterns, and UK revenue concentration (£16.8M of £19.64M total).
 
